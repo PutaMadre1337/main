@@ -2,19 +2,23 @@
 
 # Configs for Arch Linux
 
+> [!WARNING] 
+> These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
+
 <details>
-<summary>Tabular output</summary>
-<img src="assets/table.png" alt="PNG" />
+  <summary>Neovim</summary>
+  <img src="https://github.com/PutaMadre1337/nvim/blob/master/assets/neovim-dashboard.png" alt="PNG" />
+  <href>https://github.com/PutaMadre1337/nvim</href>
 </details>
 
 <details>
-<summary>Fastfetch</summary>
-<img src="https://github.com/PutaMadre1337/zsh-and-fastfetch/blob/master/assets/fastfetch.png" alt="PNG" />
+  <summary>Fastfetch</summary>
+  <img src="https://github.com/PutaMadre1337/zsh-and-fastfetch/blob/master/assets/fastfetch.png" alt="PNG" />
 </details>
 
 <details>
-<summary>Zsh</summary>
-<img src="https://github.com/PutaMadre1337/zsh-and-fastfetch/blob/master/assets/zsh.png" alt="PNG" />
+  <summary>Zsh</summary>
+  <img src="https://github.com/PutaMadre1337/zsh-and-fastfetch/blob/master/assets/zsh.png" alt="PNG" />
 </details>
 
 </div>
