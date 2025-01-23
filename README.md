@@ -2,8 +2,7 @@
 
 # Configs for Arch Linux
 
-> [!WARNING] 
-> These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
+> [!WARNING] These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
 
 <details>
   <summary>Neovim</summary>
