@@ -5,7 +5,7 @@
 These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
 
 <details>
-  <summary>Yazi</summary>
+  <summary>Hyprland</summary>
   <img src="https://github.com/PutaMadre1337/hyprland/blob/master/assets/hyprland.png" alt="PNG" />
   <href>https://github.com/PutaMadre1337/hyprland/</href>
 </details>
