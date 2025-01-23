@@ -2,7 +2,9 @@
 
 # Configs for Arch Linux
 
-[!red]These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.[/!red]
+<span style="color:red">
+  These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
+</span>
 
 <details>
   <summary>Neovim</summary>
