@@ -23,7 +23,7 @@ These are the configs that I use myself every day. They may be unstable, there m
 </details>
 
 <details>
-  <summary>Zsh</summary>
+  <summary>Yazi</summary>
   <img src="https://github.com/PutaMadre1337/yazi/blob/master/assets/yazi.png" alt="PNG" />
   <href>https://github.com/PutaMadre1337/yazi/</href>
 </details>
