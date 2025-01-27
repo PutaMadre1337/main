@@ -1,5 +1,8 @@
+<div align="center">
 
 # Configs for Arch Linux
+
+</div>
 
 > [!WARNING]
 > These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
