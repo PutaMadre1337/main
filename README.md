@@ -2,7 +2,8 @@
 
 # Configs for Arch Linux
 
-These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
+> [!Warning]
+> These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
 
 <details>
   <summary>Hyprland</summary>
