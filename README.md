@@ -29,3 +29,6 @@ These are the configs that I use myself every day. They may be unstable, there m
 </details>
 
 </div>
+
+> [!Warning]
+> These are the configs that I use myself every day. They may be unstable, there may be errors, structure, that you don't like.
