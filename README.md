@@ -23,8 +23,8 @@
 
 <details>
   <summary>Fastfetch</summary>
-  <img src="https://github.com/PutaMadre1337/zsh-and-fastfetch/blob/master/assets/fastfetch.png" alt="PNG" />
-  <href>https://github.com/PutaMadre1337/zsh-and-fastfetch</href>
+  <img src="https://github.com/PutaMadre1337/cli/blob/master/assets/fastfetch.png" alt="PNG" />
+  <href>https://github.com/PutaMadre1337/cli</href>
 </details>
 
 <details>
